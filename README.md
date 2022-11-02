@@ -1,12 +1,15 @@
 #NYC CITI BIKE CHALLENGE
 
 ## Link To Tableau
+#### Module 14 - Citibike Challenge
 https://public.tableau.com/app/profile/andrew.eamonn.walters/viz/Module14-NYCCitibike_16673480827420/NYCCitibike?publish=yes
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 
 ## Overview of Statistical Analysis
+
+We have been tasked to convice  investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. We will then use that data to see if this would be a good program to implement into the city. We will take a look at the number of users, the frequency of the riders, and how that breakout of riders is by gender and user status throughout the weekdays and hours in NYC. This analysis will also pull from our module and some of the prior data visulizations we have completed already.
 
 
 ## Results
