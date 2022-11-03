@@ -64,7 +64,11 @@ This is a graph that details the most used starting locations of the Citi Bikes.
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Summary
+Through all this analysis we have been able to identify some important information for the business proposal. When looking at the users of Citibikes in NYC it seems that most users have a trip that is within a half hour. These users are mostly Male. The users also see the highest frequency of their trips occuring right before work hours at 8 am in the weekdays and then following work at 5-7pm on weekdays. These users are also subscribers as opposed to customers. Top starting locations for these users is in lower and central Manhattan. I would propose this plan for Des Moines if they belive that they see this Citibike not just for weekend users but want to capture the potentially untapped market of weekday commmuters. 
 
+Two suggested visualizations I would ask to have prepared for the proposal would be a visualization of peak hours by usertype. Then we could see if there are diffrences in customers vs subcribers. Earlier we looked at the diffrence by weekday, but a by hour view could bring us some good data. Another suggestion would be to look at the peak hours by gender and how they look when stacked together. It is great that we looked at it split into seperate heat maps earlier but this data could be insightful to our research. 
+
+I was curious so I looked into it, and crafted the visualizations based on my suggestions. 
 
 ## Two Suggested Visualizations 
 ### Peak Hours by Usertype
@@ -72,5 +76,5 @@ This is a graph that details the most used starting locations of the Citi Bikes.
 ### Peak Hours by Gender
 ![](https://github.com/Andrew-E-Walters/bikesharing/blob/main/Images/Peak%20Hours%20by%20Gender.png)
 
-## Summary 
+
 
